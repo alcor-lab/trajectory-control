@@ -1,0 +1,23 @@
+<package>
+  <description brief="input_output_lin_control">
+
+     input_output_lin_control
+
+  </description>
+  <author>alcor</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/input_output_lin_control</url>
+  <depend package="std_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+  <depend package="sensor_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="visualization_msgs"/>
+  <depend package="nav_msgs"/>
+  <depend package="nifti_robot_driver_msgs"/>
+
+</package>
+
+
